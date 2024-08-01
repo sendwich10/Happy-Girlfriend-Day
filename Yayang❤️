@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Girlfriend Day Cinter Abang ❤️!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Happy Girlfriend Day Cinter Abang ❤️🐾!</h1>
+        </header>
+        <main>
+            <p class="message">I LOVE YOU SAYANG! ❤️❤️❤️❤️Im so happy i could celebrate today with you! Thank You for everything sayang abang! Abang sayang ayang sangat! Kita kena kawin❤️❤️🥸☝🏻!!!! Wait for me okay sayang abang! Tasabar nak create more memories with you so we could story to our kids!!! Muahhhh ❤️❤️❤️❤️🥰🥰💖</p>
+            <img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPY3fOoL8tkgOozX3mNKyMOIAnI716SO6WCo9Y0K86C635jkTFKgzzr5FEIUSUiABiv9GHPhVTJ6lhfxkBjFJIEREbD3yhti6eOCdj-3Hwvt_vo7KVbLYwZe1NJYRkhXkrJxwCl1FRCOXVlFvZHBwDsPkXNvF-6Ciw5xjna323EsAeUoy4CRIVoHXJSG8/s4032/IMG_5379.jpeg"
+alt="Celebration Image">
+        </main>
+        <footer>
+            <p>I wish I could Meet You Sooner So I could Love You Much Longer ❤️ (abang🐾) </p>
+        </footer>
+    </div>
+</body>
+</html>
